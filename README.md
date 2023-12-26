@@ -9,3 +9,5 @@ admin_face folder stores the images of the admin face for login purpose. If you 
 Now, you can scan your face so that it can be used for login in future. You can also update the admin face and the credentials for login.
 
 user_face folder stores the all images of the users. These are used for recognising the user in the future. However these users cannot login in the system. Only admin can login either with credentials or facial recognition.
+
+IF THE FOLDERS admin_face AND user_face ARE MISSING THEN SIMPLY CREATE THESE FOLDERS IN THE SAME FOLDER WHERE THE main.py FILE IS PRESESNT
